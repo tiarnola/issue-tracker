@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/issue-tracker/static/css/main.0f248b0e.css",
-    "main.js": "/issue-tracker/static/js/main.b1457bae.js",
+    "main.css": "/issue-tracker/static/css/main.b54a85ce.css",
+    "main.js": "/issue-tracker/static/js/main.934d2979.js",
     "index.html": "/issue-tracker/index.html",
-    "main.0f248b0e.css.map": "/issue-tracker/static/css/main.0f248b0e.css.map",
-    "main.b1457bae.js.map": "/issue-tracker/static/js/main.b1457bae.js.map"
+    "main.b54a85ce.css.map": "/issue-tracker/static/css/main.b54a85ce.css.map",
+    "main.934d2979.js.map": "/issue-tracker/static/js/main.934d2979.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f248b0e.css",
-    "static/js/main.b1457bae.js"
+    "static/css/main.b54a85ce.css",
+    "static/js/main.934d2979.js"
   ]
 }
