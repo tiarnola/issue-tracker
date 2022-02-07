@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/issue-tracker/static/css/main.b54a85ce.css",
-    "main.js": "/issue-tracker/static/js/main.934d2979.js",
+    "main.js": "/issue-tracker/static/js/main.1118788c.js",
     "index.html": "/issue-tracker/index.html",
     "main.b54a85ce.css.map": "/issue-tracker/static/css/main.b54a85ce.css.map",
-    "main.934d2979.js.map": "/issue-tracker/static/js/main.934d2979.js.map"
+    "main.1118788c.js.map": "/issue-tracker/static/js/main.1118788c.js.map"
   },
   "entrypoints": [
     "static/css/main.b54a85ce.css",
-    "static/js/main.934d2979.js"
+    "static/js/main.1118788c.js"
   ]
 }
