@@ -1,8 +1,9 @@
-import React, {useState, useEffect} from 'react';
+import React from 'react';
+//import React, {useState, useEffect} from 'react';
 import './CurrentIssue.css'
 
 function CurrentIssue() {
-  const [addIssue, setAddIssue] = useState(true)
+  //const [addIssue, setAddIssue] = useState(true)
   return (
     <div className="current-issues">
       <div className="indv-issue"> 
